@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="banner_three">
+        <item>http://img4.imgtn.bdimg.com/it/u=852584205,227742241&amp;fm=21&amp;gp=0.jpg</item>
+        <item>http://pic.58pic.com/58pic/12/36/16/42n58PICrk9.jpg</item>
+        <item>http://img2.3lian.com/2014/f5/147/d/36.jpg</item>
+    </string-array>
+    <string-array name="banner_two">
+        <item>http://img5.imgtn.bdimg.com/it/u=2454490754,3577056241&amp;fm=21&amp;gp=0.jpg</item>
+        <item>http://pic74.nipic.com/file/20150807/9252150_120819141510_2.jpg</item>
+    </string-array>
+    <string-array name="banner_one">
+        <item>http://pic9.nipic.com/20100820/4982229_092235399794_2.jpg</item>
+    </string-array>
+</resources>
